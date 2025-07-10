@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "吴家欣"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "人工智能专业学生"
+  location         : "中国合肥"
+  employer         : "中国科学技术大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anmicius@mail.ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
