@@ -7,30 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-About ME!
+个人介绍
 ======
 
-I am a student from USTC.
-My major is Artificial Intelligence.
-
-It's my third year in college.
-I'm eager to learn more about AI and bring happiness to everyone.
+我就读于中国科学技术大学，人工智能英才班
 
 
 
 
-Getting started
+项目介绍
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1.
 
-Site-wide configuration
+基于OpenMv的智能识别机械车 
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+队友：刘玥含、周毅涵、周创信、曾熙宇
+·团队从零搭建了一个自动驾驶、智能识别机械车，负责机械车的嵌入式视觉控制系统架构设计，实现STM32主控板与OpenMV视觉计算板的通信与算法部署
+·负责视觉算法设计，基于OpenMV开发物体分割与目标检测算法，提升在不同光照与背景噪声影响下的目标识别鲁棒性，并将物体分割、目标检测与参考背景定位任务集成为视觉流水线
+·建立基于PID的机械臂轨迹规划算法，完成图像识别到动作执行的闭环控制，实现了彩色方块的识别、定位、抓取、存储与定向投掷
+·[技术文档](https://rec.ustc.edu.cn/share/a9fdd120-361a-11f0-b218-7f128ac1897e), 密码：cj70
 
 Create content & metadata
 ------
