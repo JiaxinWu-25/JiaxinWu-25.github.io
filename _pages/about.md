@@ -38,9 +38,6 @@ redirect_from:
 <video src="../files/output.mp4" width="600" controls>
   您的浏览器不支持 video 标签。
 </video>
-<video src="../files/output_20250823_23145378.mp4" width="600" controls>
-  您的浏览器不支持 video 标签。
-</video>
 
 
 Create content & metadata
