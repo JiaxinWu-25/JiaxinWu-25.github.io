@@ -35,7 +35,7 @@ redirect_from:
 
 ·[技术文档](https://rec.ustc.edu.cn/share/a9fdd120-361a-11f0-b218-7f128ac1897e), 密码：cj70
 
-<video src="../files/基于Openmv的自动拾射机械车.mp4" width="600" controls>
+<video src="../files/output.mp4" width="600" controls>
   您的浏览器不支持 video 标签。
 </video>
 <video src="../files/output_20250823_23145378.mp4" width="600" controls>
